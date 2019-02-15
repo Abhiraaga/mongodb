@@ -1,0 +1,14 @@
+({id:
+5c6683d91c9d440000d6041a
+Objet
+:
+Cl:"02",
+Vendor:"RIL",
+City:"Mumbai"
+Name1:"Akash",
+Name2:"Manoj",
+Name3:"Sagar",
+Name4:"Pranesh",
+City:"Nashik",
+District:"saswad",
+POBox:"423007"})
